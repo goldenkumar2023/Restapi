@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404739906665",
+    "project_id": "apicolling",
+    "storage_bucket": "apicolling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404739906665:android:58253d53449a30805f16f8",
+        "android_client_info": {
+          "package_name": "com.example.all_apicoling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYF1diPAACB73BSbz1Usn3amdgp9lsg0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
